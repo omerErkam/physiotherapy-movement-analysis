@@ -6,7 +6,7 @@
 > **Note:** This repository is currently transitioning from an academic research phase to a modular production pipeline. The main root contains the final, stable ST-GCN implementation. The `research_and_experiments` directory contains raw experimental notebooks, ablation studies, and baseline tests (including data leakage analysis and negative results) conducted during the thesis timeline.
 
 ## Overview
-This project presents an end-to-end deep learning pipeline designed to automate the clinical assessment of physiotherapy exercises. Utilizing the KIMORE benchmark dataset, the system analyzes 3D skeletal motion data to validate clinical expertise, classify patient cohorts (Stroke, Back Pain, Parkinson's), and predict continuous clinical scores (0-50).
+This project presents a comprehensive hybrid machine learning and deep learning pipeline designed to automate the clinical assessment of physiotherapy exercises. Utilizing the KIMORE benchmark dataset, the system extracts 3D skeletal motion data to validate clinical expertise and classify patient cohorts using classical ML algorithms, while predicting continuous clinical scores (0-50) via deep learning architectures.
 
 ## Key Features & Contributions
 * **Biomechanical Engineering:** Upgraded the standard 12-joint skeletal baseline to a 23-joint enhanced mesh using MediaPipe and OpenCV to capture nuanced peripheral kinematics.
