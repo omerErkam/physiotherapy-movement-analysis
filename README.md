@@ -1,7 +1,7 @@
 # Physiotherapy Movement Analysis & Clinical Score Regression
 
-![Poster Placeholder](Buraya_Posterin_Ekran_Goruntusu)
-[Uploading Academic Research Poster in Blue and White Contemp_260616_102947 (2).pdf…]()
+![Poster](Buraya_Görseli_Sürükleyip_Bıraktığında_Otomatik_Link_Gelecek)<img width="4967" height="7021" alt="Academic Research Poster in Blue and White Contemp_260616_102947 (2) copy" src="https://github.com/user-attachments/assets/d3eb9270-a9d5-49ee-94fa-2796de550b84" />
+
 
 > **Note:** This repository is currently transitioning from an academic research phase to a modular production pipeline. The main root contains the final, stable ST-GCN implementation. The `research_and_experiments` directory contains raw experimental notebooks, ablation studies, and baseline tests (including data leakage analysis and negative results) conducted during the thesis timeline.
 
