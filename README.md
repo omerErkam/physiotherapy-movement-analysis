@@ -12,7 +12,7 @@ This project presents an end-to-end deep learning pipeline designed to automate 
 * **Biomechanical Engineering:** Upgraded the standard 12-joint skeletal baseline to a 23-joint enhanced mesh using MediaPipe and OpenCV to capture nuanced peripheral kinematics.
 * **Dual-Task Classification:** 
   * SVM-based model for Expert vs. Non-Expert validation (85.03% Accuracy, 0.8406 F1-Score).
-  * Random Forest model for Patient Cohort Classification (70.00% Accuracy).
+  * Random Forest model for Patient Cohort Classification (70.00% Accuracy, 0.6616 F1-Score).
 * **Clinical Score Regression (ST-GCN):** Developed a Spatio-Temporal Graph Convolutional Network (ST-GCN) achieving an RMSE of 7.75, MAE of 5.92, and Spearman $\rho=0.670$.
 * **Robust Evaluation & Data Leakage Resolution:** Identified and corrected a subject-level data leakage flaw present in prior literature, migrating the evaluation pipeline to a strict 5-fold subject-disjoint GroupKFold cross-validation structure.
 
